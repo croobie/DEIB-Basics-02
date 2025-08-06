@@ -1,0 +1,27 @@
+{
+  "version": "3.102.35072.0",
+  "course_id": "5XMjRQrqy54",
+  "title": "DEI 4 People Asking Questions",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5aGcJhf2tS7",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

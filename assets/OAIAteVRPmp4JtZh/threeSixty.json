@@ -1,0 +1,27 @@
+{
+  "version": "3.102.35072.0",
+  "course_id": "6enz17A4sah",
+  "title": "DEIB Self-Evaluation\nPlease take a few moments to complete a self-evaluation on your comfort level with understanding and implementing the foundations of the DEIB course. This will help you identify areas for future growth.\n\nScale: 1 = Strongly Disagree | 2 = Disagree | 3 = Neutral | 4 = Agree | 5 = Strongly Agree ",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6CmBv4npB9Y",
+      "title": "DEIB Self-Evaluation\nPlease take a few moments to complete a self-evaluation on your comfort level with understanding and implementing the foundations of the DEIB course. This will help you identify areas for future growth.\n\nScale: 1 = Strongly Disagree | 2 = Disagree | 3 = Neutral | 4 = Agree | 5 = Strongly Agree ",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
